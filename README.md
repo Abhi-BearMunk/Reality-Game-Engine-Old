@@ -1,6 +1,7 @@
 # Reality-Game-Engine-V2
-An ECS based OpenGL game engine with custom rigidbody physics
-Cuurent Features:
+An ECS based OpenGL game engine.
+
+Current Features:
 - Async Model Loading
 - Custom Shaders
 - Basic Phong lights (Point, Dynamic and Spot)
